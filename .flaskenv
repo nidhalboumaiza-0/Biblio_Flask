@@ -1,0 +1,4 @@
+FLASK_APP=app
+FLASK_DEBUG=True
+JWT_SECRET_KEY=f21788b2a1c1a87e814f3b149080cbf30c45d8c42016a0ff80f491659c24efdb
+DATABASE_URL=mysql+pymysql://root@localhost:3306/bibliotheque
