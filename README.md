@@ -1,5 +1,7 @@
 # Biblio Flask API
 
+> **Archived:** The maintained frontend and API now live together in [biblio-library-platform](https://github.com/nidhalboumaiza-0/biblio-library-platform), including Docker Compose, seeded demo accounts, and complete run instructions.
+
 REST API for a library management system. It manages books, authors, members, classes, borrowing records, authentication, and dashboard data for the companion React application.
 
 ## Tech Stack
